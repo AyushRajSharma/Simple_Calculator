@@ -1,7 +1,6 @@
 <p align="center">
-    
-        <img src="#" width="30%">
-    
+    <img src="https://github.com/AyushRajSharma/Simple_Calculator/blob/main/simple_calc_react_app.png" alt="Simple React Calculator" width="700" height="900">
+  </a>
 </p>
 
 <h1 align="center">Simple Calculator React App</h1>
