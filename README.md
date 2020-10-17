@@ -5,6 +5,11 @@
 
 <h1 align="center">Simple Calculator React App</h1>
 
+## Demo
+
+<p align="center">
+  <img src="https://github.com/ayush-799/Simple_Calculator/blob/main/vokoscreenNG-2020-10-04_00-42-38.gif">
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
